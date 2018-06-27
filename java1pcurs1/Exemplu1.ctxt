@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Exemplu1
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ IO\ Streams\r\n\ \ \ \ \ \ \ \ java.io\r\n\ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ in\r\n\ \ \ \ \ \ \ \ \ \ \ \ low\ level\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ InputStream\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ FileInputStream\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ ByteArrayInputStream\r\n\ \ \ \ \ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ \ \ \ \ high\ level\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ BufferedReader\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ ObjectInputStream\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ DataInputStream\r\n\ \ \ \ \ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ out\r\n\ \ \ \ \ \ \ \ \ \ \ \ low\ level\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ OutputStream\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ FileOutputStream\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ ByteArrayOutputStream\r\n\ \ \ \ \ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ \ \ \ \ high\ level\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ PrintStream\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ PrintWriter\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ ObjectOutputStream\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ DataOutputStream\r\n
+numComments=2
