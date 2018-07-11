@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Exemplu7
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ \ \ \ \ \ \ Sa\ se\ creeze\ o\ clasa\ Angajat\ cu\ 3\ atribute\:\r\n\ \ \ \ \ \ \ nume,\ adresa\ si\ salariu\ (salariul\ are\ tipul\ double).\r\n\ \ \ \ \ \ \ Sa\ se\ creeze\ o\ lista\ cu\ 5\ angajati.\r\n\ \ \ \ \ \ \ Sa\ se\ afiseze\ suma\ salariilor\ angajatilor\ din\ Bucuresti.\r\n\r\n
+numComments=2

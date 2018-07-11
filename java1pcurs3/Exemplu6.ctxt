@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Exemplu6
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ \ \ \ \ \ \ Stream\ ->\ map(Function)\ ->\ Stream\r\n\ \ \ \ \ \ \ Stream\ ->\ mapToInt(ToIntFunction)\ ->\ IntStream\r\n\ \ \ \ \ \ \ Stream\ ->\ mapToLong(ToLongFunction)\ ->\ LongStream\r\n\ \ \ \ \ \ \ Stream\ ->\ mapToDouble(ToDoubleFunction)\ ->\ DoubleStream\r\n\ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ IntStream\ ->\ mapToObj()\ ->\ Stream\r\n\ \ \ \ \ \ \ \r\n
+numComments=2
