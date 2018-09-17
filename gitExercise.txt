@@ -1,1 +1,2 @@
 git fetch
+and after that I made a git pull (fetch+merge)
